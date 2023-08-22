@@ -125,6 +125,13 @@
             ]
         },
         {
+          "filename": "icons/1_Primary/addy.io.svg",
+          "category": "1. Apps & Sites",
+          "issuer": [
+              "addy.io"
+          ]
+        },
+        {
             "filename": "icons/1_Primary/Advcash.svg",
             "category": "1. Apps & Sites",
             "issuer": [
